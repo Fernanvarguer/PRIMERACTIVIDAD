@@ -1,0 +1,22 @@
+fileFormatVersion: 2
+guid: 0aae02eccc1ed7a4a896cfb769605720
+TrueTypeFontImporter:
+  externalObjects: {}
+  serializedVersion: 4
+  fontSize: 16
+  forceTextureCase: -2
+  characterSpacing: 0
+  characterPadding: 1
+  includeFontData: 1
+  fontNames:
+  - TIKTAK
+  fallbackFontReferences:
+  - {fileID: 12800000, guid: e3b046a30e0bd4c4bbd870832ff0c35b, type: 3}
+  customCharacters: 
+  fontRenderingMode: 0
+  ascentCalculationMode: 1
+  useLegacyBoundsCalculation: 0
+  shouldRoundAdvanceValue: 1
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
